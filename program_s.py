@@ -1,2 +1,2 @@
 def call_this(num):
-    return 2 * num
+    return 3 * num
